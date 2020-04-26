@@ -29,7 +29,8 @@ class Stack:
 # s.append(2)
 # s.append(3)
 # print(s.print())
-# s.pop()
+# x=s.pop()
+# print(x)
 # print(s.print())
 
 

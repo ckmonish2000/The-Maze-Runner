@@ -5,7 +5,8 @@ class Node:
         self.child2=None
 
     def get_data(self):
-        return self.data
+        x=str(self.data)
+        return x
 
     def get_Child_One(self):
         return self.child1
@@ -17,6 +18,7 @@ class Node:
 
 # root=Node("parent")
 # c1=Node("1")
+# print(root.child2)
 # root.child1=c1
 # c2=Node("2")
 # root.child2=c2
