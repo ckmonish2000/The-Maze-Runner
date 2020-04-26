@@ -1,2 +1,13 @@
 from stack import Stack
-from Tree import Node
+from path import root
+
+start=root
+end=input("between b-f")
+
+s=Stack()
+
+
+
+
+
+
